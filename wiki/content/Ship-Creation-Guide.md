@@ -19,6 +19,11 @@ You can also link weapon mounts to gibs so that weapons in those slots will foll
 
 [[/img/ship-creation-guide/linked-gib.png]]
 
+## Cloak Image
+
+### [Cloak Image Tutorial](https://www.youtube.com/watch?v=08GqtK9hUjE)
+[![Cloak Image Tutorial](https://img.youtube.com/vi/08GqtK9hUjE/maxresdefault.jpg)](https://www.youtube.com/watch?v=08GqtK9hUjE)
+
 ## Miniships
 
 If you're making a ship for Multiverse, you'll need to add some icons to the miniship. All the existing miniship icons are in the [assets/miniship icons](../blob/master/assets/miniship%20icons) folder of this repository, and there's more info about how to use them in the [About the Icons](../blob/master/assets/miniship%20icons/About-the-Icons.md) file in that folder.
